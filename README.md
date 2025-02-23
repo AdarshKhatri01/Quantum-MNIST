@@ -1,2 +1,2 @@
 # Quantum-MNIST
-Quantum MNIST NN
+Quantum MNIST Classification with Hybrid Neural Networks
